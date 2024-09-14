@@ -1,1 +1,7 @@
 /images
+
+# Yolo Model
+*.weights
+*.cfg
+*.pt
+/runs
